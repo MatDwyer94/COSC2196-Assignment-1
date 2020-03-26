@@ -21,3 +21,10 @@ My interest in IT covers pretty much anything electronic. From tiny little gadge
 I chose to attend RMIT as I finally decided to start pursuing my interest in IT at a professional level, however, I currently work full time and am unable to attend university in person. I saw that RMIT had an online bachelor of IT and it seemed to be a very good program, so I decided to attend. So far it has been a decent experience.
 
 During my studies, I am hoping to learn how to design my own full programs and get a deeper understanding on how IT systems affect our daily lives and interact with us and each other, as well as how it all generally works.
+
+## Ideal job
+
+[Job Advertisement](https://www.seek.com.au/job/41197236?type=standout#searchRequestToken=87f66953-8eb5-4f6b-9d22-b4a5a82b818a)
+![Job Advertisement](/jobListing.png)
+
+## Personality Tests
