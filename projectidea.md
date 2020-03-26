@@ -1,1 +1,1 @@
-This is the test landing page
+Click [Here](/index.md) to go to personal info.

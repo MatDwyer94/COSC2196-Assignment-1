@@ -1,3 +1,5 @@
+Click [Here](/projectidea.md) to go to project idea.
+
 ## Personal Information
 
 **Name** Mathew Dwyer
