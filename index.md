@@ -27,4 +27,16 @@ During my studies, I am hoping to learn how to design my own full programs and g
 [Job Advertisement](https://www.seek.com.au/job/41197236?type=standout#searchRequestToken=87f66953-8eb5-4f6b-9d22-b4a5a82b818a)
 ![Job Advertisement](/jobListing.png)
 
+###Description of Position
+
+An engineer that helps create and implement automation systems using various different technologies. I have always loved the idea of automation and making technology do the work for you so this would be an incredibly interesting job.
+
+###Skills and Qualifications required
+
+Knowledge in an extremely wide variety of progamming and coding languages would be essential as well as how they interact with different frameworks. Even how the frameworks work together. It would also be extremely helpful to know how electronics work to be able to more efficiently create code for it. Qualifications in IT and possibly electrical engineering would be necessary/advantageous to be successful at a job like this.
+
+###Plan to attain Skills and Qualifications
+
+Study a bachelor of IT with a focus on programming, internet and connected technologies, and cybersecurity.
+
 ## Personality Tests
