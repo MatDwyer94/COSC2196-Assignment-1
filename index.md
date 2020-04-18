@@ -35,8 +35,18 @@ An engineer that helps create and implement automation systems using various dif
 
 Knowledge in an extremely wide variety of progamming and coding languages would be essential as well as how they interact with different frameworks. Even how the frameworks work together. It would also be extremely helpful to know how electronics work to be able to more efficiently create code for it. Qualifications in IT and possibly electrical engineering would be necessary/advantageous to be successful at a job like this.
 
+###Current Skills and Qualifications
+
+I currently have basic programming skills and electronics knowledge. But still not on the level needed for a job of this level.
+
 ###Plan to attain Skills and Qualifications
 
-Study a bachelor of IT with a focus on programming, internet and connected technologies, and cybersecurity.
+Study a bachelor of IT with a focus on programming, internet and connected technologies, and cybersecurity. I could possibly pursue post graduate studies in electrical engineering to help solidify knowledge in more related areas.
 
 ## Personality Tests
+
+Myers Briggs Test Result - ISTP (Introversion, Sensing, Thinking, Perceiving)
+
+Learning Styles Test Result - Visual Learner
+
+OSPP 4 Temperament Test - Phlegmatic
