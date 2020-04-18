@@ -27,19 +27,19 @@ During my studies, I am hoping to learn how to design my own full programs and g
 [Job Advertisement](https://www.seek.com.au/job/41197236?type=standout#searchRequestToken=87f66953-8eb5-4f6b-9d22-b4a5a82b818a)
 ![Job Advertisement](/jobListing.png)
 
-###Description of Position
+### Description of Position
 
 An engineer that helps create and implement automation systems using various different technologies. I have always loved the idea of automation and making technology do the work for you so this would be an incredibly interesting job.
 
-###Skills and Qualifications required
+### Skills and Qualifications required
 
 Knowledge in an extremely wide variety of progamming and coding languages would be essential as well as how they interact with different frameworks. Even how the frameworks work together. It would also be extremely helpful to know how electronics work to be able to more efficiently create code for it. Qualifications in IT and possibly electrical engineering would be necessary/advantageous to be successful at a job like this.
 
-###Current Skills and Qualifications
+### Current Skills and Qualifications
 
 I currently have basic programming skills and electronics knowledge. But still not on the level needed for a job of this level.
 
-###Plan to attain Skills and Qualifications
+### Plan to attain Skills and Qualifications
 
 Study a bachelor of IT with a focus on programming, internet and connected technologies, and cybersecurity. I could possibly pursue post graduate studies in electrical engineering to help solidify knowledge in more related areas.
 
@@ -50,3 +50,9 @@ Myers Briggs Test Result - ISTP (Introversion, Sensing, Thinking, Perceiving)
 Learning Styles Test Result - Visual Learner
 
 OSPP 4 Temperament Test - Phlegmatic
+
+Together, these results seem to indicate I am someone who stops to think before making decisions. I am also quite introverted and not particularly social. It also indicates that I am someone who learns more through seeing something be done rather than being instructed.
+
+They help to point that in a group, I am better at being a decision maker becuase I will carefully consider all options before coming to a conclusion. But it also says that  I will not likely speak up very much due to my introverted nature.
+
+This should be taken into account when forming a team by considering what the other members advantages and disadvantages within their personaility are, and using them to decide what roles within the group suit each member the best.
